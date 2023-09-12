@@ -1,0 +1,253 @@
+*{
+  margin: 0%;
+  padding: 0%;
+font-family: 'Poppins', sans-serif;
+}
+.main{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  cursor: pointer;
+  margin-left: 120px;
+}
+
+.main .left nav{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  margin-top: 61px;
+  cursor: pointer;
+}
+
+.l{
+  height: 100px;
+}
+.logger{
+  border: none;
+}
+.ct{
+  
+}
+.sp{
+  color: gray;
+
+}
+.left nav .sign{
+  width: 100px;
+  height: 34px;
+  background-color: black;
+  border: none;
+  color: white;
+  cursor: pointer;
+
+}
+.divxt{
+  width: 800px;
+  height: 10px;
+  
+}
+
+
+.left nav .sign:hover{
+  background-color: transparent;
+  color: black;
+  border: 2px solid black;
+  font-weight: 600;
+}
+.left nav button{
+  border: none;
+  color: black;
+  background-color: transparent;
+  margin-left: 32px;
+  font-size: 16px;
+  margin-top: 11px;
+}
+.left .txt{
+  margin-left: 56px;
+  margin-top: 60px;
+  
+}
+.left .txt h1{
+  font-size: 39px;
+}
+.txt p{
+  margin-top: 16px;
+  font-size: 17px;
+  font-weight: bold;
+  color: rgb(43, 42, 42);
+}
+.txt span{
+  color: gray;
+}
+.pp{
+  margin-left: 0pxb;
+}
+.txt .inp{
+  display: flex;
+  margin-top: 33px;
+}
+.txt .inp input{
+  width: 400px;
+  border: 1px solid rgb(247, 90, 33);
+  border-right: none;
+  padding: 11px;
+  font-size: 17px;
+}
+.txt .inp button{
+  width: 130px;
+  height: 50px;
+  background-color: rgb(250, 80, 18);
+  color: white;
+  border: none;
+  font-size: 18px;
+}
+.left img{
+  width: 32%;
+}
+.main .main-img{
+  width: 530px;
+}
+.txt.pp{
+  font-size: 18px;
+  margin-top: 12px;
+}
+.ctt .sp{
+  font-size: 18px;
+}
+.card{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  text-align: center;
+  background-color: rgb(31, 16, 5);
+  padding: 44px;
+  color: white;
+}
+.crd{
+  margin-left: 120px;
+  margin-right: 120px;
+}
+.card .crd img{
+  width: 30%;
+}
+.card .crd h2{
+  margin-top: 15px;
+}
+.order{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 0px 160px;
+}
+.order img{
+  width: 33%;
+}
+.order .text{
+  margin-top: 65px;
+   
+ 
+}
+.order .text h1{
+  font-size: 43px;
+}
+.order .text p{
+  font-size: 18px;
+}
+.footer{
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;  
+  background-color: black;
+  padding: 55px;
+  color: white;
+ 
+  
+}
+.paradiv{
+  background-color: black;
+}
+.footer{
+  margin: 0px 100px;
+}
+.paradiv{
+  width: 100vw;
+  height: 430px;
+
+}
+
+.footer .list{
+  padding: 0px 0px;
+}
+.footer .list img{
+   width:43%;
+   border: 2px solid white;
+   border-radius: 5px;
+}
+.footer .list h2{
+  color: gray;
+}
+
+.borderdiv{
+  background-color:black;
+  width: 100%;
+  height: 150px;
+}
+.footerdiv{
+
+  background-color: black;
+  margin: 0px 150px;
+  height: 150px;
+  
+}
+.hr{
+  background-color: rgb(43, 42, 42);
+}
+.paraggg{
+  font-size: 15px;
+  font-weight: bolder;
+  color: grey;
+  padding-top: 20px;
+}
+.paragg{
+  font-size: 15px;
+  font-weight: lighter;
+  color: white;
+  padding-top: 20px;
+  display: inline-block;
+  padding-bottom: 20px;
+}
+.parag{
+  font-size: 15px;
+  font-weight: lighter;
+  color: white;
+  display: inline-block;
+  margin-left: 600px;
+}
+.footerimg{
+  width: 200px;
+  height: 60px;
+
+}
+.footerdivv{
+  width: 100vw;
+  height: 100px;
+  background-color: black;
+}
+.footerr{
+  margin: 0px 150px;
+  background-color: black;
+}
+
+.pp{
+  margin-top: -50px;
+  color: white;
+  margin-left: 600px;
+}
+.imgs{
+  height: 20px;
+  margin-left: 7px;
+}
+#imgs{
+  padding-left: 1050px;
+  margin-top: -20px;
+}
